@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "/hi-im-vlad/static/css/main.68142430.chunk.css",
-    "main.js": "/hi-im-vlad/static/js/main.39ff5e0a.chunk.js",
-    "main.js.map": "/hi-im-vlad/static/js/main.39ff5e0a.chunk.js.map",
+    "main.css": "/hi-im-vlad/static/css/main.6f2f6713.chunk.css",
+    "main.js": "/hi-im-vlad/static/js/main.4de5221e.chunk.js",
+    "main.js.map": "/hi-im-vlad/static/js/main.4de5221e.chunk.js.map",
     "runtime-main.js": "/hi-im-vlad/static/js/runtime-main.01eeef9f.js",
     "runtime-main.js.map": "/hi-im-vlad/static/js/runtime-main.01eeef9f.js.map",
-    "static/js/2.1298893f.chunk.js": "/hi-im-vlad/static/js/2.1298893f.chunk.js",
-    "static/js/2.1298893f.chunk.js.map": "/hi-im-vlad/static/js/2.1298893f.chunk.js.map",
+    "static/js/2.b20e562b.chunk.js": "/hi-im-vlad/static/js/2.b20e562b.chunk.js",
+    "static/js/2.b20e562b.chunk.js.map": "/hi-im-vlad/static/js/2.b20e562b.chunk.js.map",
     "index.html": "/hi-im-vlad/index.html",
-    "precache-manifest.df49452b409ec81358e7d0c6cc0cf9ca.js": "/hi-im-vlad/precache-manifest.df49452b409ec81358e7d0c6cc0cf9ca.js",
+    "precache-manifest.5c8bc686db4e81743e3999a29d008a41.js": "/hi-im-vlad/precache-manifest.5c8bc686db4e81743e3999a29d008a41.js",
     "service-worker.js": "/hi-im-vlad/service-worker.js",
-    "static/css/main.68142430.chunk.css.map": "/hi-im-vlad/static/css/main.68142430.chunk.css.map",
-    "static/js/2.1298893f.chunk.js.LICENSE.txt": "/hi-im-vlad/static/js/2.1298893f.chunk.js.LICENSE.txt"
+    "static/css/main.6f2f6713.chunk.css.map": "/hi-im-vlad/static/css/main.6f2f6713.chunk.css.map",
+    "static/js/2.b20e562b.chunk.js.LICENSE.txt": "/hi-im-vlad/static/js/2.b20e562b.chunk.js.LICENSE.txt",
+    "static/media/Facebook.png": "/hi-im-vlad/static/media/Facebook.c128c2b3.png",
+    "static/media/Instagram.png": "/hi-im-vlad/static/media/Instagram.ff2af4a4.png",
+    "static/media/Reddit.ico": "/hi-im-vlad/static/media/Reddit.1f19cdde.ico",
+    "static/media/me.JPG": "/hi-im-vlad/static/media/me.a3a2c996.JPG",
+    "static/media/pathfindingBig.png": "/hi-im-vlad/static/media/pathfindingBig.3a6b6a19.png",
+    "static/media/sudokuBig.png": "/hi-im-vlad/static/media/sudokuBig.00866f3b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.01eeef9f.js",
-    "static/js/2.1298893f.chunk.js",
-    "static/css/main.68142430.chunk.css",
-    "static/js/main.39ff5e0a.chunk.js"
+    "static/js/2.b20e562b.chunk.js",
+    "static/css/main.6f2f6713.chunk.css",
+    "static/js/main.4de5221e.chunk.js"
   ]
 }
