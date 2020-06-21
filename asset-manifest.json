@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hi-im-vlad/static/css/main.6f2f6713.chunk.css",
-    "main.js": "/hi-im-vlad/static/js/main.4de5221e.chunk.js",
-    "main.js.map": "/hi-im-vlad/static/js/main.4de5221e.chunk.js.map",
+    "main.css": "/hi-im-vlad/static/css/main.0c2592f5.chunk.css",
+    "main.js": "/hi-im-vlad/static/js/main.a1938d00.chunk.js",
+    "main.js.map": "/hi-im-vlad/static/js/main.a1938d00.chunk.js.map",
     "runtime-main.js": "/hi-im-vlad/static/js/runtime-main.01eeef9f.js",
     "runtime-main.js.map": "/hi-im-vlad/static/js/runtime-main.01eeef9f.js.map",
     "static/js/2.b20e562b.chunk.js": "/hi-im-vlad/static/js/2.b20e562b.chunk.js",
     "static/js/2.b20e562b.chunk.js.map": "/hi-im-vlad/static/js/2.b20e562b.chunk.js.map",
     "index.html": "/hi-im-vlad/index.html",
-    "precache-manifest.5c8bc686db4e81743e3999a29d008a41.js": "/hi-im-vlad/precache-manifest.5c8bc686db4e81743e3999a29d008a41.js",
+    "precache-manifest.34f90a3132cebfb7b31e58a2f4567068.js": "/hi-im-vlad/precache-manifest.34f90a3132cebfb7b31e58a2f4567068.js",
     "service-worker.js": "/hi-im-vlad/service-worker.js",
-    "static/css/main.6f2f6713.chunk.css.map": "/hi-im-vlad/static/css/main.6f2f6713.chunk.css.map",
+    "static/css/main.0c2592f5.chunk.css.map": "/hi-im-vlad/static/css/main.0c2592f5.chunk.css.map",
     "static/js/2.b20e562b.chunk.js.LICENSE.txt": "/hi-im-vlad/static/js/2.b20e562b.chunk.js.LICENSE.txt",
     "static/media/Facebook.png": "/hi-im-vlad/static/media/Facebook.c128c2b3.png",
     "static/media/Instagram.png": "/hi-im-vlad/static/media/Instagram.ff2af4a4.png",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.01eeef9f.js",
     "static/js/2.b20e562b.chunk.js",
-    "static/css/main.6f2f6713.chunk.css",
-    "static/js/main.4de5221e.chunk.js"
+    "static/css/main.0c2592f5.chunk.css",
+    "static/js/main.a1938d00.chunk.js"
   ]
 }
